@@ -55,7 +55,7 @@ and also for smooth communication with Designer, Product Manager and other Devel
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 </div>
 
-- 🏃🏻‍♀️ 2021.10 ~
+- 🏃🏻‍♀️ 2021.10 ~ 2025.05
 - 🧭 Seoul, Korea     
 
 ### SSAFY 5th (Samsung SW Academy For Youth)

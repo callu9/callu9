@@ -1,4 +1,4 @@
-# SUJEONG LEE
+# callu9
 
 > 복잡한 업무 규칙을 화면·API·상태의 책임으로 구조화하고,  
 > 사용자가 입력부터 결과 확인까지 끝까지 수행할 수 있는 흐름을 만드는 Frontend Engineer입니다.
@@ -83,4 +83,3 @@
 ## Contact
 
 - callu_9ine@naver.com
-- Portfolio: [callu9.github.io](https://callu9.github.io)
